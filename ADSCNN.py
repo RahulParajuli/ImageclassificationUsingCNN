@@ -16,7 +16,7 @@ drive.mount('/content/drive')
 
 """Checking avaiable GPU"""
 
-!nvidia-smi
+
 
 """Confirming the prescence of GPU"""
 
